@@ -14,4 +14,7 @@ class PalindromeExample{
   else    
    System.out.println("not palindrome");    
 }  
+ 
+ //poll scm testing
+ System.out.println("Just for testing purpose only");
 }  
